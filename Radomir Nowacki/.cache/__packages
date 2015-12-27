@@ -1,0 +1,12 @@
+base
+shiny
+slidifyLibraries
+dplyr
+lattice
+ggplot2
+car
+mosaicData
+mosaic
+devtools
+slidify
+XML
